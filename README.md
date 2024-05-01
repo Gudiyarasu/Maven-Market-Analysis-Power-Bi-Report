@@ -4,11 +4,11 @@ Maven Market Analysis is a Power BI project focused on analyzing market trends a
 
 ## Features
 
-Sales performance dashboard
+- Sales performance dashboard
 
-Customer segmentation analysis
+- Customer segmentation analysis
 
-Brand profitability analysis
+- Brand profitability analysis
 
 ## Data Sources
 
