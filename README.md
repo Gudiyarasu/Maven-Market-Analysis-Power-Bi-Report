@@ -8,7 +8,7 @@ Sales performance dashboard
 
 Customer segmentation analysis
 
-Product profitability analysis
+Brand profitability analysis
 
 ## Data Sources
 
@@ -35,7 +35,7 @@ Provides an overview of Maven's sales performance, including revenue trends, top
 Analyzes Maven's customer base and segments customers based on demographics, purchase behavior, and lifetime value.
 ![Alttext](https://github.com/Gudiyarasu/Maven-Market-Analysis-Power-Bi-Report/blob/main/Maven%20Market%20Analysis/Customer%20Detail.png)
 
-### 3. Product Profitability Analysis: 
+### 3. Brand Profitability Analysis: 
 Evaluates the profitability of Maven's product portfolio, identifying high-margin products and areas for improvement.
 ![Alt text](https://github.com/Gudiyarasu/Maven-Market-Analysis-Power-Bi-Report/blob/main/Maven%20Market%20Analysis/Brand%20Detail.png)
 
