@@ -37,7 +37,7 @@ Evaluates the profitability of Maven's product portfolio, identifying high-margi
 
 ## Instructions for Use
 
-Download the Maven_Market_Analysis.pbix file from the repository.
+Download the Maven Market Analysis file from the repository and open the maven_project.pbix file
 Open the file in Microsoft Power BI Desktop.
 Navigate through the various dashboards using the tabs provided. Use filters to drill down into specific segments of the data.
 
