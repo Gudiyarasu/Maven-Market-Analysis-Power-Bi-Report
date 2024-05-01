@@ -29,13 +29,15 @@ The analysis utilizes sales data obtained from Maven's internal database, includ
 
 #### 1. Sales Performance Dashboard:
 Provides an overview of Maven's sales performance, including revenue trends, top-selling products, and geographical distribution of sales.
+![Alt text](https://github.com/Gudiyarasu/Maven-Market-Analysis-Power-Bi-Report/blob/main/Maven%20Market%20Analysis/Top%20Performance.png)
+
 ### 2.Customer Segmentation Analysis: 
 Analyzes Maven's customer base and segments customers based on demographics, purchase behavior, and lifetime value.
 
 ### 3. Product Profitability Analysis: 
 Evaluates the profitability of Maven's product portfolio, identifying high-margin products and areas for improvement.
+![Alt text](https://github.com/Gudiyarasu/Maven-Market-Analysis-Power-Bi-Report/blob/main/Maven%20Market%20Analysis/Brand%20Detail.png)
 
-![Alt text](https://github.com/Gudiyarasu/Maven-Market-Analysis-Power-Bi-Report/blob/main/Maven%20Market%20Analysis/Top%20Performance.png)
 
 ## Instructions for Use
 
