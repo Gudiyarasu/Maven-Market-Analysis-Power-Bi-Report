@@ -35,7 +35,7 @@ Analyzes Maven's customer base and segments customers based on demographics, pur
 ### 3. Product Profitability Analysis: 
 Evaluates the profitability of Maven's product portfolio, identifying high-margin products and areas for improvement.
 
-![Alt text](Maven Market Analysis/Brand Detail.png)
+![Alt text](https://github.com/Gudiyarasu/Maven-Market-Analysis-Power-Bi-Report/blob/main/Maven%20Market%20Analysis/Top%20Performance.png)
 
 ## Instructions for Use
 
